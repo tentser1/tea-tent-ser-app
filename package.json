@@ -1,0 +1,24 @@
+{
+  "name": "tea-tent-ser-app",
+  "version": "1.0.0",
+  "description": "Tea testnet demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tentser1/tea-tent-ser-app.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-tent-ser": "1.0.0",
+    "tea-nigty-app": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tentser1/tea-tent-ser-app/issues"
+  },
+  "homepage": "https://github.com/tentser1/tea-tent-ser-app#readme"
+}
